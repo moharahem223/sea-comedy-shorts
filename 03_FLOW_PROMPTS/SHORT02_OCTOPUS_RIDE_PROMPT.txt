@@ -1,0 +1,53 @@
+=====================================================================
+SEA_COMEDY_SHORTS — SHORT 02 — ركوب الدلفين (The Dolphin Ride)
+المدة: 10 ثوانٍ · كوميديا صامتة (بلا كلام) · شخصيات: ملكة البحر كورال + دولفي + بوبو
+=====================================================================
+
+FRAMES
+------
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: SCENES/SCENE_02/SHORT02_OCTOPUS_RIDE.png
+Animate it into a 10-second 3D animated children's silent comedy cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
+Visual style (locked for the whole series): 3D animated children's silent comedy cartoon, Pixar-style, soft rounded shapes, big friendly expressive eyes, smooth clean surfaces, bright cheerful underwater lighting, bouncy slapstick energy, warm saturated kids' palette, no photorealism.
+Scene environment (locked): a funny underwater playground: a soft sandy seabed with a rounded sand mound, pink and orange coral, swaying seaweed, tiny fish, rising bubbles in the bright turquoise background, and the pearly seashell throne in the back left
+Subjects in frame (locked): BOBOO the purple octopus is stuck head-first in the rounded sand mound in the center with all eight curly tentacles sticking straight up and wiggling; DOLFI the turquoise-blue dolphin bounces happily on his tail right beside him with a big joyful smile and both flippers raised; The MERMAID QUEEN leans back on her seashell throne at the left laughing cheerfully, her crown slightly tilted and her golden scepter lifted.
+Matching prompt file name: PROMPTS/SHORT02_OCTOPUS_RIDE_PROMPT.txt
+
+CONTINUITY
+----------
+Three characters, identical in every shot: MERMAID QUEEN KORAL (teal-green shimmering fish tail, purple seashell top, long wavy auburn hair with tiny pearls, big golden crown, small golden coral scepter, big dramatic sparkling eyes, funny proud diva personality); DOLFI (chubby turquoise-blue dolphin standing upright on his tail, cream belly, huge goofy grin, flippers used like little arms, playful and over-enthusiastic); BOBOO (round purple octopus with eight curly tentacles, big round shy eyes, small red bow tie under his chin, clumsy and unlucky).
+Keep the exact same character designs, colors, proportions, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
+The three characters stay clearly visible and never leave the frame; no extra character ever appears.
+Absolutely no text, no words, no speech bubbles, no subtitles, no logos and no watermark are ever rendered inside the video frame.
+
+ACTION AND TIMING
+-----------------
+0.0-2.5s: Boboo climbs onto Dolfi's back trying to ride him like a horse, tentacles gripping everywhere; the Queen watches with delighted anticipation. 2.5-5.0s: Dolfi bounces once, twice — Boboo flies up spinning in the water with a swirl of bubbles. 5.0-7.5s: Boboo lands head-first in the soft sand mound with a muffled POOF of sand, only his eight wiggling tentacles left above the surface. 7.5-10.0s: Dolfi bounces around him cheering with flippers raised, the Queen leans back laughing and taps her scepter on the throne, and Boboo's tentacles wave a funny little surrender.
+All motion is soft, bouncy, exaggerated slapstick and clearly readable for toddlers; no fast erratic movement, no scary action.
+
+DIALOGUE
+--------
+NO SPOKEN DIALOGUE AT ALL — this is a silent comedy short (no talking, no lip-sync, no voice-over, no singing).
+The characters communicate ONLY with funny gestures, facial expressions and body language:
+- QUEEN KORAL: proud royal poses, dramatic slow hand gestures, over-the-top surprised faces, silly dance moves.
+- DOLFI: excited flippers, goofy open-mouthed laughs, bows and bounces, playful nods.
+- BOBOO: shy tentacle waves, embarrassed face-covering, clumsy slips and helpless wiggles.
+Optional on-screen text is NOT rendered in the video (add captions later in your editor if needed).
+
+CAMERA
+------
+Camera is strictly locked and static for the entire shot — NO camera movement whatsoever: no pan, no tilt, no zoom, no dolly, no push-in, no orbit, no handheld shake, no parallax drift.
+Single fixed tripod wide-to-medium framing: all three characters fully visible with generous headroom, vertical 9:16 portrait composition, 1080x1920, 30 FPS.
+
+SOUND
+-----
+No spoken words at all. Bouncy playful silent-comedy cartoon music (pizzicato bounce, tuba oom-pah, woodblock) looping for 10 seconds. A big spring BOING on each dolphin bounce, a rising slide-whistle while Boboo spins, a soft sandy POOF on landing, one rubber-duck HONK, and continuous gentle bubbles.
+No human speech, no narration, no lyrics, no sad or aggressive sounds.
+
+END FRAME
+---------
+Boboo stuck head-first in the sand mound with his eight tentacles waving above the sand, Dolfi bouncing beside him with flippers up and a huge joyful grin, the Queen leaning back on her throne laughing with her tilted crown, sand cloud settling, seabed and coral unchanged.
+The frozen final frame must stay perfectly clean and readable, and should visually echo the first frame so the short loops seamlessly on YouTube Shorts and TikTok.
+
+NEGATIVE
+--------
+photorealism, real ocean footage, documentary look, dark or moody lighting, scary faces, angry expressions, violence, blood, weapons, camera movement of any kind, camera pan, camera zoom, dolly, orbit, handheld shake, extreme close-up, cropped characters, any text, any letters, any words, subtitles, captions, speech bubbles, logos, watermarks, UI overlay, brand names, extra fingers, deformed hands, deformed flippers, extra limbs, missing limbs, blurry, low resolution, noise, film grain, more than three characters, human legs on the mermaid, realistic hair
